@@ -7,7 +7,7 @@ The analysis distinguishes between two groups:
 * residents and regular visitors;
 * non-resident or occasional visitors.
 
-The notebook includes:
+The notebooks include:
 
 * dataset cleaning and validation;
 * management of missing responses and partially completed questionnaires;
@@ -20,9 +20,11 @@ The notebook includes:
 
 ## Repository files
 
-* `analisi.ipynb`: Jupyter Notebook containing the code and analysis results;
-* `results-survey-07.csv`: dataset used for the analysis;
+* `analisi.ipynb`: Italian version of the Jupyter Notebook;
+* `analysis.ipynb`: English version of the Jupyter Notebook;
 * `README.md`: project description.
+
+The original dataset is not included in this repository. However, the notebooks contain the saved outputs of the analysis, allowing the results to be viewed directly on GitHub.
 
 ## Technologies
 
@@ -43,7 +45,7 @@ L’analisi distingue due gruppi:
 * residenti e frequentatori abituali;
 * visitatori non residenti o non abituali.
 
-Il notebook comprende:
+I notebook comprendono:
 
 * pulizia e controllo del dataset;
 * gestione delle risposte mancanti e delle compilazioni parziali;
@@ -56,9 +58,11 @@ Il notebook comprende:
 
 ## File presenti
 
-* `analisi.ipynb`: notebook Jupyter contenente il codice e i risultati dell’analisi;
-* `results-survey-07.csv`: dataset utilizzato;
+* `analisi.ipynb`: versione italiana del notebook Jupyter;
+* `analysis.ipynb`: versione inglese del notebook Jupyter;
 * `README.md`: descrizione del progetto.
+
+Il dataset originale non è incluso nel repository. I notebook contengono però gli output salvati dell’analisi, permettendo di visualizzare direttamente su GitHub i risultati ottenuti.
 
 ## Tecnologie utilizzate
 
